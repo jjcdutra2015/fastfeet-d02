@@ -18,7 +18,7 @@ module.exports = {
       number: {
         type: Sequelize.STRING,
       },
-      comlement: {
+      complement: {
         type: Sequelize.STRING,
       },
       state: {
